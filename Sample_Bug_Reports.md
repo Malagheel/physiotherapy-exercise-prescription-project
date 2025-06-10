@@ -9,8 +9,7 @@ This document provides examples of how bugs or incidents would be formally repor
 | :--- | :--- |
 | **Title:** | **[Bug]** Video link for "Glute Bridge" exercise is broken |
 | **ID:** | BUG-PT-045 |
-| **Reported By:** | Chris (QA Tester) |
-| **Priority:** | High |
+| **Reported By:** | Mohammed Alagheel (Business Analyst) || **Priority:** | High |
 | **Related Test Case:** | QA-005 |
 
 **Description:**
@@ -35,8 +34,7 @@ The browser opens a new tab with a "404 Not Found" error page. The URL points to
 | :--- | :--- |
 | **Title:** | **[Bug]** System allows negative numbers in the "Reps" and "Sets" fields |
 | **ID:** | BUG-PT-046 |
-| **Reported By:** | Chris (QA Tester) |
-| **Priority:** | Medium |
+| **Reported By:** | Mohammed Alagheel (Business Analyst) || **Priority:** | Medium |
 | **Related Test Case:** | N/A (Exploratory Testing) |
 
 **Description:**
